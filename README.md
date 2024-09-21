@@ -30,12 +30,9 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwet-Kamal-Singh&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shwet-Kamal-Singh&theme=default&hide_border=true" alt="Shwet's GitHub streak" width="48.5%" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwet-Kamal-Singh&show_icons=true&theme=default&hide_border=true" alt="Shwet's GitHub stats" width="49%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Shwet-Kamal-Singh&show_icons=true&theme=default&hide_border=true" alt="Shwet's GitHub stats" width="46%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shwet-Kamal-Singh&theme=default&hide_border=true" alt="Shwet's GitHub streak" width="48.5%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwet-Kamal-Singh&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="46%" />
 </div>
 
 ## 🏆 GitHub Trophies
